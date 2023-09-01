@@ -34,8 +34,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.nav-link:hover,
-:focus {
+.nav-link:hover {
   color: #404bbf;
 }
 .nav-link:focus {
@@ -52,8 +51,10 @@ ul {
 .contacts {
   color: #434455;
 }
-.contacts:hover,
-:focus {
+.contacts:hover {
+  color: #404bbf;
+}
+.contacts:focus {
   color: #404bbf;
 }
 
@@ -81,8 +82,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.hero-button:hover,
-:focus {
+.hero-button:hover {
   color: #fff;
   background-color: #404bbf;
 }
@@ -93,8 +93,6 @@ ul {
 /*feature section*/
 
 .visually-hidden {
-  width: 1px;
-  height: 1px;
   margin: -1px;
   border: 0;
   white-space: nowrap;
@@ -161,6 +159,7 @@ ul {
 }
 .portfolio-name {
   color: #2e2f42;
+  background-color: #ffffff;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
