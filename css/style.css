@@ -38,6 +38,9 @@ ul {
 :focus {
   color: #404bbf;
 }
+.nav-link:focus {
+  color: #404bbf;
+}
 .address {
   font-family: Roboto;
   font-style: normal;
@@ -83,15 +86,17 @@ ul {
   color: #fff;
   background-color: #404bbf;
 }
+.hero-button:focus {
+  color: #404bbf;
+  background-color: #404bbf;
+}
 /*feature section*/
 
 .visually-hidden {
-  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
   border: 0;
-  padding: 0;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -120,6 +125,7 @@ ul {
 }
 .our-team-title {
   color: #2e2f42;
+  background-color: #ffffff;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
