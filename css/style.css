@@ -65,7 +65,7 @@ ul {
 .hero-title {
   color: #fff;
   font-size: 56px;
-  font-weight: 7 00;
+  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
@@ -111,7 +111,6 @@ ul {
 .feature-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -146,7 +145,6 @@ ul {
 .our-team-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -172,7 +170,6 @@ ul {
 .portfolio-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -183,7 +180,6 @@ ul {
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
