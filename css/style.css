@@ -131,6 +131,10 @@ ul {
   text-transform: capitalize;
   text-align: center;
 }
+
+.our-team-list {
+  background-color: #ffffff;
+}
 .our-team-name {
   color: #2e2f42;
   background-color: #ffffff;
